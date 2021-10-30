@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤵 I'm a data enthusiast currently doing my PGP in Data Science and Engineering from Great lakes institute of management, quite profecient in python,mysql,pandas and statistics.
+🤵 I'm a data enthusiast currently doing my PGP in Data Science and Engineering from Great lakes institute of management, quite proficient in python,mysql,pandas and statistics.
 
 🔭 Give me the data I will visualize it for you !. I can crunch the data and provide insights from it which I learnt and practiced during my courses.
 
