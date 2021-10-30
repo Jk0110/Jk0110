@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...Tri3
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤵 I'm a data enthusiast currently doing my PGP in Data Science and Engineering from Great lakes institute of management, quite profecient in python,mysql,pandas and statistics.
+
+🔭 Give me the data I will visualize it for you !. I can crunch the data and provide insights from it which I learnt and practiced during my courses.
+
+👨‍🎓 Holding a Bachelor's Degree in Electronics and Communication Engineering,having a few months of experience working in an e-commerce platform.
+
+
